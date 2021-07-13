@@ -1,4 +1,4 @@
-import random # We use this ro pick the item
+import random # We use this to pick the item
 
 items = [] # We make a empty list
 
