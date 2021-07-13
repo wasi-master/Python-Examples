@@ -1,4 +1,4 @@
-import random  We use the random module to generate random numbers
+import random # We use the random module to generate random numbers
 
 min_num = int(input("Minimum Number: ")) # We get the minimum number the user wants
 max_num = int(input("Maximum Number: ")) # We get the maximum number the user wants
